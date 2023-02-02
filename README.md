@@ -12,7 +12,7 @@ and [Github Backup Of Old Files](https://github.com/matteo-dinoia/uni-files) wit
 ### Telegram useful link
 * [Libri](http://t.me/neeggafiles)  per tutti gli anni (📢 - Telegram)
 * [Raccolta di benefici](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03) per tutti gli studenti UniTo
-* Other [useful link](https://tsi-unito.github.io/links)
+* [Link utili](https://tsi-unito.github.io/links) a canali telegram e altre informazioni (files,...)
 
 
 ## Git repositories
