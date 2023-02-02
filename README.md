@@ -10,11 +10,7 @@ and [Github Backup Of Old Files](https://github.com/matteo-dinoia/uni-files) wit
 
 
 ### Telegram useful link
-* [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
-* [Office per Studenti ](https://www.microsoft.com/it-it/education/products/office)
-(Microsoft.com)
-* [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
-* [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
+* [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - Telegram)
 * [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
 
 
