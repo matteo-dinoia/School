@@ -16,6 +16,12 @@ and [Github Backup Of Old Files](https://github.com/matteo-dinoia/uni-files) wit
 
 
 ## Git repositories
+
+### Second Year Second Semester
+* [Link](https://github.com/matteo-dinoia/uni-database) 
+to github repositories for **DB (DataBase)**
+
+
 ### Second Year First Semester
 
 * [Link](https://github.com/matteo-dinoia/uni-formal-languages) 
