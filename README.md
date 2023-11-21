@@ -16,6 +16,14 @@ and [Github Backup Of Old Files](https://github.com/matteo-dinoia/uni-files) wit
 
 
 ## Git repositories
+### Third Year First Semester
+* [Link](https://github.com/matteo-dinoia/uni-lpp) and [Link](https://github.com/matteo-dinoia/uni-lpp-second-part) to github repositories for **LPP (Linguaggi e Paradigmi di Programmazione)**
+* [Link](https://github.com/matteo-dinoia/uni-tweb) 
+to github repositories for **TWEB (Tecnologie web)** (not IUM & TWEB)
+* [Link](https://github.com/matteo-dinoia/uni-mfi)
+to github repositories for **MFI (Metodi Formali dell'Informatica)**
+* [Link](https://github.com/matteo-dinoia/uni-programming-3)
+to github repositories for **Programming III** 
 
 ### Second Year Second Semester
 * [Link](https://github.com/matteo-dinoia/uni-database) 
@@ -23,7 +31,6 @@ to github repositories for **DB (DataBase)**
 
 
 ### Second Year First Semester
-
 * [Link](https://github.com/matteo-dinoia/uni-formal-languages) 
 to github repositories for **LFT (Linguaggi formali e traduttori)**
 * [Link](https://github.com/matteo-dinoia/uni-operating-system)
