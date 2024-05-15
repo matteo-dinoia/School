@@ -5,7 +5,7 @@ Some useful data for UniTo Computer Science course.
 ## General Useful Data
 * 📓 [Notion](https://matteodinoia.notion.site/Appunti-07db9c8c18374a6cb5439f3c1dd2c051) 
 to **my notes (recommended)** of all years.
-* ☁️ [GoogleDrive](https://drive.google.com/drive/folders/1ifRzfyEtgmeSgAgM3GotgujDW2efcrBz?usp=sharing) 
+* ☁️ [GoogleDrive](https://drive.google.com/drive/folders/1BGl5fBo2IeLq4PrkXC9RySFleD5qsXYM?usp=sharing) 
 and [Github Backup Of Old Files](https://github.com/matteo-dinoia/uni-files) with the **material** of the lessons and exercise.
 
 
